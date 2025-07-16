@@ -15,7 +15,7 @@ This series is built to:
 - Share small, open-source learning projects
 
 📅 New projects posted daily!
-
+(https://github.com/Hrishi-3000/Vedicode-QR-MiniProject-Series-01)
 ---
 
 🔄 Keep checking back — this list will grow over time. Follow the repo to stay updated!
