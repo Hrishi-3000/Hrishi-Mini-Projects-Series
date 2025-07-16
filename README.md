@@ -6,6 +6,8 @@ Welcome to my Python Mini Projects Series! This is a collection of small, beginn
 
 | # | Project Name | Description |
 |--|--------------|-------------|
+| 1 | [Vedicode-QR](https://github.com/Hrishi-3000/Vedicode-QR-MiniProject-Series-01) | Simple Instant QR Generation |
+| ... | ... | ... |
 
 
 ## 📌 Purpose
@@ -15,7 +17,7 @@ This series is built to:
 - Share small, open-source learning projects
 
 📅 New projects posted daily!
-(https://github.com/Hrishi-3000/Vedicode-QR-MiniProject-Series-01)
+
 ---
 
 🔄 Keep checking back — this list will grow over time. Follow the repo to stay updated!
