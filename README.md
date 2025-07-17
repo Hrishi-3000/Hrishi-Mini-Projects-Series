@@ -7,6 +7,7 @@ Welcome to my Python Mini Projects Series! This is a collection of small, beginn
 | # | Project Name | Description |
 |--|--------------|-------------|
 | 1 | [Vedicode-QR](https://github.com/Hrishi-3000/Vedicode-QR-MiniProject-Series-01) | Simple Instant QR Generation |
+| 2 | [Password-Generator](https://github.com/Hrishi-3000/Password-Generator-MiniProject-Series-02) | Simple Effective Password Generator |
 | ... | ... | ... |
 
 
