@@ -9,7 +9,7 @@ Welcome to my Python Mini Projects Series! This is a collection of small, beginn
 | 1 | [Vedicode-QR](https://github.com/Hrishi-3000/Vedicode-QR-MiniProject-Series-01) | Simple Instant QR Generation |
 | 2 | [Password-Generator](https://github.com/Hrishi-3000/Password-Generator-MiniProject-Series-02) | Simple Effective Password Generator |
 | 3 | [Pomodoro Clock](https://github.com/Hrishi-3000/ChakraFlow-Timer-MiniProject-Series-03) | Simple Pomodoro Clock |
-
+| 4 | [Curreny Converter](https://github.com/Hrishi-3000/Currency-Converter-MiniProject-Series-04) | Live Currency Converter |
 
 
 ## 📌 Purpose
