@@ -2,7 +2,7 @@
 
 Welcome to my Python Mini Projects Series! This is a collection of small, beginner-friendly  projects created daily to sharpen coding skills and solve real-world simple problems in simple ways.
 
-## 🔗 Project Index
+## 🔗 Project Index 
 
 | # | Project Name | Description |
 |--|--------------|-------------|
